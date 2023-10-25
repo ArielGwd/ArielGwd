@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ariel Gema Wardana</h1>
 <h3 align="center">A Beginner Web Developer from Metro, Lampung, Indonesia</h3>
 <img src="https://media2.giphy.com/media/unxCGmTuBvwo2djRLA/200.webp?cid=ecf05e47w47kds9mtpckjgi2unlkq5c4ovze1a8lclx4fjir&ep=v1_gifs_search&rid=200.webp&ct=g" width="400" align="right">
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arielgwd&label=Profile%20views&color=0e75b6&style=flat" alt="arielgwd" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
