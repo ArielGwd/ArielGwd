@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.discordapp.com/attachments/1173994847078723645/1191435678840533122/bg-gabut3.png?ex=6623fdf1&is=6622ac71&hm=b7bec42cda732bf001bbe88f6027c6be8dbb010c58856bbc65a22e8c78ff14c8&)
+![MasterHead](https://media.tenor.com/CDQ8vFdh-KcAAAAi/yes-hello.gif)
 <h1 align="center">Hi 👋, I'm Ariel Gema Wardana</h1>
 <h3 align="center">A Beginner Web Developer from Metro, Lampung, Indonesia</h3>
 <img src="https://media2.giphy.com/media/unxCGmTuBvwo2djRLA/200.webp?cid=ecf05e47w47kds9mtpckjgi2unlkq5c4ovze1a8lclx4fjir&ep=v1_gifs_search&rid=200.webp&ct=g" width="400" align="right">
