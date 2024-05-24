@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arielgwd&label=Profile%20views&color=0e75b6&style=flat" alt="arielgwd" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🏫 I’m currently student on [Universitas Siber Asia](https://unsia.ac.id/)
+- 🏫 I’m currently student on [Asia Cyber University](https://unsia.ac.id/)
 
 - 📚 I’m currently learning **React, Python and Laravel**
 
