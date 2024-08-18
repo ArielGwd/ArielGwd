@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ariel Gema Wardana</h1>
-<h3 align="center">A Beginner Web Developer from Metro, Lampung, Indonesia</h3>
+<h3 align="center">A Beginner Web Developer from Lampung, Indonesia</h3>
 <img src="https://media2.giphy.com/media/unxCGmTuBvwo2djRLA/200.webp?cid=ecf05e47w47kds9mtpckjgi2unlkq5c4ovze1a8lclx4fjir&ep=v1_gifs_search&rid=200.webp&ct=g" width="400" align="right">
 <br>
 
