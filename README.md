@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Ariel Gema Wardana</h2>
-<h4>I'm a Web Developer from Lampung, Indonesia</h4>
+<p>I'm a Web Developer from Lampung, Indonesia</p>
 
 ###
 
