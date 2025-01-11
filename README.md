@@ -1,7 +1,22 @@
-<h2 align="left">Hi 👋! My name is Ariel Gema Wardana</h2>
+<h1 align="left">Hey 👋 What's up?</h1>
+<p align="left">My name is Ariel Gema Wardana</p>
 <p>I'm a Web Developer from Lampung, Indonesia</p>
 
-###
+<h2 align="left">About me</h2>
+<p align="left">
+As a University Student in Informatics, I am committed to continuously deepening my knowledge and skills in the field of technology and computer science. My background began in Vocational High School with a major in Software Engineering. 
+</p>
+
+<p>
+There, I studied UI/UX Design, Flowcharts, Database Systems, and Application Development. My bootcamp-based internship honed my skills in UI/UX, ERD, UML, and web technologies like HTML, CSS, JavaScript, and PHP.
+</p>
+
+<p>
+At university, I am further specializing in Data Structures, Algorithms, Database Systems, and Programming. Combining academic knowledge with practical experience, I aim to excel in the dynamic tech industry.
+</>
+
+
+<h2 align="left">I code with</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
