@@ -3,10 +3,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b7611i6lrmgud47ayv0wfcgusfgleftmtbnk50mrfsem9&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
@@ -42,10 +38,4 @@
 </div>
 
 ###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
+![ArielGwd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArielGwd&theme=dark&show_icons=true&hide_border=false&layout=compact)
